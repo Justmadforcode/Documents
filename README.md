@@ -5,7 +5,7 @@ A) Folder LG
 
         1)
         
-B) Folder AJ	
+B) Folder AJ
         Authentication
         ---------------
         1) AccessToken Vs ID Token Vs Refresh Token.docx (word file)
