@@ -7,5 +7,6 @@ A) Folder LG
         
 B) Folder AJ	
 
-        1) AccessToken Vs ID Token Vs Refresh Token.docx
+        1) AccessToken Vs ID Token Vs Refresh Token.docx (word file)
+        2) OpenID QnA (word file)
        
